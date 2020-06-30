@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<updates>
+  <update from="lzap+pub@redhat.com" status="stable" type="security" version="1">
+    <id>WALRUS-2013:0002</id>
+    <title>One package errata</title>
+    <release>1</release>
+    <issued date="2010-01-01 01:01:01"/>
+    <description>Walrus errata</description>
+    <pkglist>
+      <collection short="">
+        <name>1</name>
+        <module name="walrus" stream="0.71" version="20190707165243" context="d0ffee42" arch="x86_64"/>
+        <package arch="noarch" name="walrus" epoch="0" release="1" src="http://www.fedoraproject.org" version="0.71">
+          <filename>walrus-0.71-1.noarch.rpm</filename>
+        </package>
+      </collection>
+    </pkglist>
+  </update>
+</updates>

@@ -1,0 +1,40 @@
+<updates>
+  <update from="rel-eng@example.org" status="stable" type="security" version="1.4">
+    <id>EXA:2015-0001</id>
+    <title>Security Update for pulp-test-package</title>
+    <release>EXAMPLE</release>
+    <issued date="2015-07-01 00:00:00"/>
+    <references>
+      <reference href="https://bugzilla.example.com/show_bug.cgi?id=123456" id="123456" title="bz123456 - Fixing stuff" type="bugzilla"/>
+    </references>
+    <description>My heart is bleeding into a poodle on the floor due to the venomous coding of our shellshocked developers</description>
+    <pkglist>
+      <collection>
+        <name>Internal Software (v.6 for AMD64)</name>
+        <package arch="x86_64" name="pulp-test-package" version="0.2.1" release="1.fc11" epoch="0" src="pulp-test-package-0.2.1-1.fc11.src.rpm">
+          <filename>pulp-test-package-0.2.1-1.fc11.x86_64.rpm</filename>
+          <reboot_suggested>True</reboot_suggested>
+        </package>
+      </collection>
+    </pkglist>
+  </update>
+  <update from="rel-eng@example.org" status="stable" type="bugfix" version="1.4">
+    <id>EXA:2015-0002</id>
+    <title>Bugfix Update for pulp-test-package</title>
+    <release>EXAMPLE</release>
+    <issued date="2015-07-06 00:00:00"/>
+    <references>
+      <reference href="https://bugzilla.example.com/show_bug.cgi?id=987654" id="987654" title="bz987654 - Fixing more stuff" type="bugzilla"/>
+    </references>
+    <description>Serious error. all repos have disappeared. yum. pulp. both are gone.</description>
+    <pkglist>
+      <collection>
+        <name>Internal Software (v.6 for AMD64)</name>
+        <package arch="x86_64" name="pulp-test-package" version="0.3.1" release="1.fc11" epoch="0" src="pulp-test-package-0.3.1-1.fc11.src.rpm">
+          <filename>pulp-test-package-0.3.1-1.fc11.x86_64.rpm</filename>
+          <reboot_suggested>False</reboot_suggested>
+        </package>
+      </collection>
+    </pkglist>
+  </update>
+</updates>

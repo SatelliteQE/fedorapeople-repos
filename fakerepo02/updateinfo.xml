@@ -1,0 +1,572 @@
+<?xml version="1.0"?>
+<updates><update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:271</id>
+  <title>Malta_Erratum</title>
+  <release>4</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Malta_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Malta" release="4" src="http://www.fedoraproject.org" version="8.5.3">
+        <filename>Malta-8.5.3-4.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:1698</id>
+  <title>Malta_Erratum</title>
+  <release>5</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Malta_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Malta" release="5" src="http://www.fedoraproject.org" version="8.5.3">
+        <filename>Malta-8.5.3-5.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:347</id>
+  <title>CentralAfricanRep_Erratum</title>
+  <release>6</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>CentralAfricanRep_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="CentralAfricanRep" release="6" src="http://www.fedoraproject.org" version="2.5.5">
+        <filename>CentralAfricanRep-2.5.5-6.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:305</id>
+  <title>CentralAfricanRep_Erratum</title>
+  <release>7</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>CentralAfricanRep_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="CentralAfricanRep" release="7" src="http://www.fedoraproject.org" version="2.5.5">
+        <filename>CentralAfricanRep-2.5.5-7.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:4729</id>
+  <title>Mongolia_Erratum</title>
+  <release>8</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Mongolia_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Mongolia" release="8" src="http://www.fedoraproject.org" version="10.7.7">
+        <filename>Mongolia-10.7.7-8.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:1522</id>
+  <title>Mongolia_Erratum</title>
+  <release>9</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Mongolia_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Mongolia" release="9" src="http://www.fedoraproject.org" version="10.7.7">
+        <filename>Mongolia-10.7.7-9.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:995</id>
+  <title>Guinea_Erratum</title>
+  <release>1</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Guinea_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Guinea" release="1" src="http://www.fedoraproject.org" version="5.2.0">
+        <filename>Guinea-5.2.0-1.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:7876</id>
+  <title>Comoros_Erratum</title>
+  <release>7</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Comoros_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Comoros" release="7" src="http://www.fedoraproject.org" version="5.7.6">
+        <filename>Comoros-5.7.6-7.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:2551</id>
+  <title>Comoros_Erratum</title>
+  <release>8</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Comoros_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Comoros" release="8" src="http://www.fedoraproject.org" version="5.7.6">
+        <filename>Comoros-5.7.6-8.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:5966</id>
+  <title>Comoros_Erratum</title>
+  <release>9</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Comoros_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Comoros" release="9" src="http://www.fedoraproject.org" version="5.7.6">
+        <filename>Comoros-5.7.6-9.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:6875</id>
+  <title>CapeVerde_Erratum</title>
+  <release>6</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>CapeVerde_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="CapeVerde" release="6" src="http://www.fedoraproject.org" version="2.8.5">
+        <filename>CapeVerde-2.8.5-6.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:8606</id>
+  <title>CapeVerde_Erratum</title>
+  <release>7</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>CapeVerde_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="CapeVerde" release="7" src="http://www.fedoraproject.org" version="2.8.5">
+        <filename>CapeVerde-2.8.5-7.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:1672</id>
+  <title>Zimbabwe_Erratum</title>
+  <release>6</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Zimbabwe_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Zimbabwe" release="6" src="http://www.fedoraproject.org" version="8.8.5">
+        <filename>Zimbabwe-8.8.5-6.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:3974</id>
+  <title>Zimbabwe_Erratum</title>
+  <release>7</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Zimbabwe_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Zimbabwe" release="7" src="http://www.fedoraproject.org" version="8.8.5">
+        <filename>Zimbabwe-8.8.5-7.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:1720</id>
+  <title>Mauritius_Erratum</title>
+  <release>10</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Mauritius_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Mauritius" release="10" src="http://www.fedoraproject.org" version="0.9.9">
+        <filename>Mauritius-0.9.9-10.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:9443</id>
+  <title>Mauritius_Erratum</title>
+  <release>11</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Mauritius_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Mauritius" release="11" src="http://www.fedoraproject.org" version="0.9.9">
+        <filename>Mauritius-0.9.9-11.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:1083</id>
+  <title>Mauritius_Erratum</title>
+  <release>12</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Mauritius_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Mauritius" release="12" src="http://www.fedoraproject.org" version="0.9.9">
+        <filename>Mauritius-0.9.9-12.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:5651</id>
+  <title>Guyana_Erratum</title>
+  <release>2</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Guyana_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Guyana" release="2" src="http://www.fedoraproject.org" version="9.5.1">
+        <filename>Guyana-9.5.1-2.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:199</id>
+  <title>Slovakia_Erratum</title>
+  <release>4</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Slovakia_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Slovakia" release="4" src="http://www.fedoraproject.org" version="8.4.3">
+        <filename>Slovakia-8.4.3-4.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:5775</id>
+  <title>UnitedStates_Erratum</title>
+  <release>5</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>UnitedStates_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="UnitedStates" release="5" src="http://www.fedoraproject.org" version="9.9.4">
+        <filename>UnitedStates-9.9.4-5.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:8373</id>
+  <title>Cyprus_Erratum</title>
+  <release>1</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Cyprus_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Cyprus" release="1" src="http://www.fedoraproject.org" version="1.6.10">
+        <filename>Cyprus-1.6.10-1.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:8562</id>
+  <title>Cyprus_Erratum</title>
+  <release>2</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Cyprus_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Cyprus" release="2" src="http://www.fedoraproject.org" version="1.6.10">
+        <filename>Cyprus-1.6.10-2.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:581</id>
+  <title>Cyprus_Erratum</title>
+  <release>3</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Cyprus_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Cyprus" release="3" src="http://www.fedoraproject.org" version="1.6.10">
+        <filename>Cyprus-1.6.10-3.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:6342</id>
+  <title>Mauritius_Erratum</title>
+  <release>9</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Mauritius_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Mauritius" release="9" src="http://www.fedoraproject.org" version="6.10.8">
+        <filename>Mauritius-6.10.8-9.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:71</id>
+  <title>Mauritius_Erratum</title>
+  <release>10</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Mauritius_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Mauritius" release="10" src="http://www.fedoraproject.org" version="6.10.8">
+        <filename>Mauritius-6.10.8-10.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:3074</id>
+  <title>Germany_Erratum</title>
+  <release>7</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Germany_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Germany" release="7" src="http://www.fedoraproject.org" version="0.2.6">
+        <filename>Germany-0.2.6-7.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:4890</id>
+  <title>Germany_Erratum</title>
+  <release>8</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Germany_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Germany" release="8" src="http://www.fedoraproject.org" version="0.2.6">
+        <filename>Germany-0.2.6-8.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:9246</id>
+  <title>Spain_Erratum</title>
+  <release>9</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Spain_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Spain" release="9" src="http://www.fedoraproject.org" version="0.0.8">
+        <filename>Spain-0.0.8-9.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:9521</id>
+  <title>Spain_Erratum</title>
+  <release>10</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Spain_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Spain" release="10" src="http://www.fedoraproject.org" version="0.0.8">
+        <filename>Spain-0.0.8-10.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:5049</id>
+  <title>Spain_Erratum</title>
+  <release>11</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Spain_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Spain" release="11" src="http://www.fedoraproject.org" version="0.0.8">
+        <filename>Spain-0.0.8-11.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:9205</id>
+  <title>UnitedStates_Erratum</title>
+  <release>1</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>UnitedStates_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="UnitedStates" release="1" src="http://www.fedoraproject.org" version="10.9.10">
+        <filename>UnitedStates-10.9.10-1.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:9995</id>
+  <title>UnitedStates_Erratum</title>
+  <release>2</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>UnitedStates_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="UnitedStates" release="2" src="http://www.fedoraproject.org" version="10.9.10">
+        <filename>UnitedStates-10.9.10-2.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:4113</id>
+  <title>Israel_Erratum</title>
+  <release>8</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Israel_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Israel" release="8" src="http://www.fedoraproject.org" version="3.2.7">
+        <filename>Israel-3.2.7-8.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:5629</id>
+  <title>Andorra_Erratum</title>
+  <release>1</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Andorra_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Andorra" release="1" src="http://www.fedoraproject.org" version="10.8.0">
+        <filename>Andorra-10.8.0-1.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:7362</id>
+  <title>Zimbabwe_Erratum</title>
+  <release>9</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Zimbabwe_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Zimbabwe" release="9" src="http://www.fedoraproject.org" version="1.7.8">
+        <filename>Zimbabwe-1.7.8-9.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:6655</id>
+  <title>Zimbabwe_Erratum</title>
+  <release>10</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Zimbabwe_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Zimbabwe" release="10" src="http://www.fedoraproject.org" version="1.7.8">
+        <filename>Zimbabwe-1.7.8-10.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:1492</id>
+  <title>acme-package_Erratum</title>
+  <release>1.0.1 </release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>acme-package_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="acme-package" release="1.0.1 " src="http://www.fedoraproject.org" version="1.0.2">
+        <filename>acme-package-1.0.2-1.0.1 .elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:7442</id>
+  <title>acme-package_Erratum</title>
+  <release>1.0.2 </release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>acme-package_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="acme-package" release="1.0.2 " src="http://www.fedoraproject.org" version="1.1.2">
+        <filename>acme-package-1.1.2-1.0.2 .elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+</updates>

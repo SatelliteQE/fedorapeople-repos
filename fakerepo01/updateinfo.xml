@@ -1,0 +1,1187 @@
+<?xml version="1.0"?>
+<updates><update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:8085</id>
+  <title>Chipmunk_Erratum</title>
+  <release>5</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Chipmunk_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Chipmunk" release="5" src="http://www.fedoraproject.org" version="6.6.4">
+        <filename>Chipmunk-6.6.4-5.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:8126</id>
+  <title>Elephant_Erratum</title>
+  <release>8</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Elephant_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Elephant" release="8" src="http://www.fedoraproject.org" version="6.1.7">
+        <filename>Elephant-6.1.7-8.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:8997</id>
+  <title>Elephant_Erratum</title>
+  <release>9</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Elephant_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Elephant" release="9" src="http://www.fedoraproject.org" version="6.1.7">
+        <filename>Elephant-6.1.7-9.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:7317</id>
+  <title>Chicken_Erratum</title>
+  <release>2</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Chicken_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Chicken" release="2" src="http://www.fedoraproject.org" version="8.1.1">
+        <filename>Chicken-8.1.1-2.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:6061</id>
+  <title>Duck_Erratum</title>
+  <release>1</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Duck_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Duck" release="1" src="http://www.fedoraproject.org" version="6.3.0">
+        <filename>Duck-6.3.0-1.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:2969</id>
+  <title>Deer_Erratum</title>
+  <release>5</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Deer_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Deer" release="5" src="http://www.fedoraproject.org" version="10.3.4">
+        <filename>Deer-10.3.4-5.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:3933</id>
+  <title>Porcupine_Erratum</title>
+  <release>9</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Porcupine_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Porcupine" release="9" src="http://www.fedoraproject.org" version="8.3.8">
+        <filename>Porcupine-8.3.8-9.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:9685</id>
+  <title>Porcupine_Erratum</title>
+  <release>10</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Porcupine_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Porcupine" release="10" src="http://www.fedoraproject.org" version="8.3.8">
+        <filename>Porcupine-8.3.8-10.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:3577</id>
+  <title>Porcupine_Erratum</title>
+  <release>11</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Porcupine_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Porcupine" release="11" src="http://www.fedoraproject.org" version="8.3.8">
+        <filename>Porcupine-8.3.8-11.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:2635</id>
+  <title>Fish_Erratum</title>
+  <release>3</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Fish_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Fish" release="3" src="http://www.fedoraproject.org" version="5.0.2">
+        <filename>Fish-5.0.2-3.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:842</id>
+  <title>Fish_Erratum</title>
+  <release>4</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Fish_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Fish" release="4" src="http://www.fedoraproject.org" version="5.0.2">
+        <filename>Fish-5.0.2-4.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:5470</id>
+  <title>Crab_Erratum</title>
+  <release>2</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Crab_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Crab" release="2" src="http://www.fedoraproject.org" version="1.6.1">
+        <filename>Crab-1.6.1-2.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:6502</id>
+  <title>Lizard_Erratum</title>
+  <release>8</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Lizard_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Lizard" release="8" src="http://www.fedoraproject.org" version="2.4.7">
+        <filename>Lizard-2.4.7-8.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:9106</id>
+  <title>Dolphin_Erratum</title>
+  <release>6</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Dolphin_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Dolphin" release="6" src="http://www.fedoraproject.org" version="0.4.5">
+        <filename>Dolphin-0.4.5-6.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:5629</id>
+  <title>Dog_Erratum</title>
+  <release>2</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Dog_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Dog" release="2" src="http://www.fedoraproject.org" version="1.5.1">
+        <filename>Dog-1.5.1-2.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:4760</id>
+  <title>Dog_Erratum</title>
+  <release>3</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Dog_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Dog" release="3" src="http://www.fedoraproject.org" version="1.5.1">
+        <filename>Dog-1.5.1-3.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:9611</id>
+  <title>Cow_Erratum</title>
+  <release>9</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Cow_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Cow" release="9" src="http://www.fedoraproject.org" version="2.2.8">
+        <filename>Cow-2.2.8-9.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:6066</id>
+  <title>Cow_Erratum</title>
+  <release>10</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Cow_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Cow" release="10" src="http://www.fedoraproject.org" version="2.2.8">
+        <filename>Cow-2.2.8-10.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:5854</id>
+  <title>Cow_Erratum</title>
+  <release>11</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Cow_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Cow" release="11" src="http://www.fedoraproject.org" version="2.2.8">
+        <filename>Cow-2.2.8-11.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:1992</id>
+  <title>Deer_Erratum</title>
+  <release>7</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Deer_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Deer" release="7" src="http://www.fedoraproject.org" version="2.1.6">
+        <filename>Deer-2.1.6-7.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:7475</id>
+  <title>Deer_Erratum</title>
+  <release>8</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Deer_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Deer" release="8" src="http://www.fedoraproject.org" version="2.1.6">
+        <filename>Deer-2.1.6-8.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:7195</id>
+  <title>Deer_Erratum</title>
+  <release>9</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Deer_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Deer" release="9" src="http://www.fedoraproject.org" version="2.1.6">
+        <filename>Deer-2.1.6-9.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:8897</id>
+  <title>Lizard_Erratum</title>
+  <release>4</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Lizard_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Lizard" release="4" src="http://www.fedoraproject.org" version="5.0.3">
+        <filename>Lizard-5.0.3-4.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:4571</id>
+  <title>Lizard_Erratum</title>
+  <release>5</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Lizard_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Lizard" release="5" src="http://www.fedoraproject.org" version="5.0.3">
+        <filename>Lizard-5.0.3-5.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:2579</id>
+  <title>Lizard_Erratum</title>
+  <release>6</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Lizard_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Lizard" release="6" src="http://www.fedoraproject.org" version="5.0.3">
+        <filename>Lizard-5.0.3-6.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:8241</id>
+  <title>Zebra_Erratum</title>
+  <release>1</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Zebra_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Zebra" release="1" src="http://www.fedoraproject.org" version="7.7.0">
+        <filename>Zebra-7.7.0-1.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:5319</id>
+  <title>Sheep_Erratum</title>
+  <release>2</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Sheep_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Sheep" release="2" src="http://www.fedoraproject.org" version="0.9.1">
+        <filename>Sheep-0.9.1-2.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:7419</id>
+  <title>Elephant_Erratum</title>
+  <release>3</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Elephant_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Elephant" release="3" src="http://www.fedoraproject.org" version="4.7.2">
+        <filename>Elephant-4.7.2-3.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:7947</id>
+  <title>Elephant_Erratum</title>
+  <release>4</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Elephant_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Elephant" release="4" src="http://www.fedoraproject.org" version="4.7.2">
+        <filename>Elephant-4.7.2-4.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:9359</id>
+  <title>Elephant_Erratum</title>
+  <release>5</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Elephant_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Elephant" release="5" src="http://www.fedoraproject.org" version="4.7.2">
+        <filename>Elephant-4.7.2-5.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:1228</id>
+  <title>Fox_Erratum</title>
+  <release>2</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Fox_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Fox" release="2" src="http://www.fedoraproject.org" version="3.5.1">
+        <filename>Fox-3.5.1-2.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:2400</id>
+  <title>Fox_Erratum</title>
+  <release>3</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Fox_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Fox" release="3" src="http://www.fedoraproject.org" version="3.5.1">
+        <filename>Fox-3.5.1-3.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:9258</id>
+  <title>Zebra_Erratum</title>
+  <release>6</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Zebra_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Zebra" release="6" src="http://www.fedoraproject.org" version="8.5.5">
+        <filename>Zebra-8.5.5-6.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:7619</id>
+  <title>Zebra_Erratum</title>
+  <release>7</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Zebra_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Zebra" release="7" src="http://www.fedoraproject.org" version="8.5.5">
+        <filename>Zebra-8.5.5-7.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:5894</id>
+  <title>Kangaroo_Erratum</title>
+  <release>2</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Kangaroo_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Kangaroo" release="2" src="http://www.fedoraproject.org" version="5.2.1">
+        <filename>Kangaroo-5.2.1-2.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:7184</id>
+  <title>Kangaroo_Erratum</title>
+  <release>3</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Kangaroo_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Kangaroo" release="3" src="http://www.fedoraproject.org" version="5.2.1">
+        <filename>Kangaroo-5.2.1-3.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:7008</id>
+  <title>Chipmunk_Erratum</title>
+  <release>7</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Chipmunk_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Chipmunk" release="7" src="http://www.fedoraproject.org" version="5.1.6">
+        <filename>Chipmunk-5.1.6-7.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:8877</id>
+  <title>Cow_Erratum</title>
+  <release>1</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Cow_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Cow" release="1" src="http://www.fedoraproject.org" version="8.9.10">
+        <filename>Cow-8.9.10-1.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:2605</id>
+  <title>Cow_Erratum</title>
+  <release>2</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Cow_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Cow" release="2" src="http://www.fedoraproject.org" version="8.9.10">
+        <filename>Cow-8.9.10-2.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:3713</id>
+  <title>Dolphin_Erratum</title>
+  <release>2</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Dolphin_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Dolphin" release="2" src="http://www.fedoraproject.org" version="10.9.1">
+        <filename>Dolphin-10.9.1-2.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:5053</id>
+  <title>Dolphin_Erratum</title>
+  <release>3</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Dolphin_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Dolphin" release="3" src="http://www.fedoraproject.org" version="10.9.1">
+        <filename>Dolphin-10.9.1-3.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:3103</id>
+  <title>Dolphin_Erratum</title>
+  <release>4</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Dolphin_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Dolphin" release="4" src="http://www.fedoraproject.org" version="10.9.1">
+        <filename>Dolphin-10.9.1-4.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:2289</id>
+  <title>Antelope_Erratum</title>
+  <release>7</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Antelope_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Antelope" release="7" src="http://www.fedoraproject.org" version="10.6.6">
+        <filename>Antelope-10.6.6-7.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:1239</id>
+  <title>Antelope_Erratum</title>
+  <release>8</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Antelope_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Antelope" release="8" src="http://www.fedoraproject.org" version="10.6.6">
+        <filename>Antelope-10.6.6-8.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:6378</id>
+  <title>Antelope_Erratum</title>
+  <release>9</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Antelope_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Antelope" release="9" src="http://www.fedoraproject.org" version="10.6.6">
+        <filename>Antelope-10.6.6-9.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:7792</id>
+  <title>Zebra_Erratum</title>
+  <release>5</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Zebra_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Zebra" release="5" src="http://www.fedoraproject.org" version="2.8.4">
+        <filename>Zebra-2.8.4-5.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:5271</id>
+  <title>Zebra_Erratum</title>
+  <release>6</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Zebra_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Zebra" release="6" src="http://www.fedoraproject.org" version="2.8.4">
+        <filename>Zebra-2.8.4-6.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:6964</id>
+  <title>Dog_Erratum</title>
+  <release>7</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Dog_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Dog" release="7" src="http://www.fedoraproject.org" version="5.3.6">
+        <filename>Dog-5.3.6-7.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:7146</id>
+  <title>Dog_Erratum</title>
+  <release>8</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Dog_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Dog" release="8" src="http://www.fedoraproject.org" version="5.3.6">
+        <filename>Dog-5.3.6-8.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:4162</id>
+  <title>Chicken_Erratum</title>
+  <release>1</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Chicken_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Chicken" release="1" src="http://www.fedoraproject.org" version="7.6.0">
+        <filename>Chicken-7.6.0-1.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:5848</id>
+  <title>Chicken_Erratum</title>
+  <release>2</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Chicken_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Chicken" release="2" src="http://www.fedoraproject.org" version="7.6.0">
+        <filename>Chicken-7.6.0-2.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:4142</id>
+  <title>Chicken_Erratum</title>
+  <release>3</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Chicken_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Chicken" release="3" src="http://www.fedoraproject.org" version="7.6.0">
+        <filename>Chicken-7.6.0-3.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:7213</id>
+  <title>Cat_Erratum</title>
+  <release>9</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Cat_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Cat" release="9" src="http://www.fedoraproject.org" version="0.2.8">
+        <filename>Cat-0.2.8-9.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:8968</id>
+  <title>Cat_Erratum</title>
+  <release>10</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Cat_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Cat" release="10" src="http://www.fedoraproject.org" version="0.2.8">
+        <filename>Cat-0.2.8-10.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:2229</id>
+  <title>Ostritch_Erratum</title>
+  <release>2</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Ostritch_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Ostritch" release="2" src="http://www.fedoraproject.org" version="10.5.1">
+        <filename>Ostritch-10.5.1-2.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:9177</id>
+  <title>Ostritch_Erratum</title>
+  <release>3</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Ostritch_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Ostritch" release="3" src="http://www.fedoraproject.org" version="10.5.1">
+        <filename>Ostritch-10.5.1-3.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:8538</id>
+  <title>Frog_Erratum</title>
+  <release>2</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Frog_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Frog" release="2" src="http://www.fedoraproject.org" version="6.10.1">
+        <filename>Frog-6.10.1-2.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:4832</id>
+  <title>Boar_Erratum</title>
+  <release>3</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Boar_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Boar" release="3" src="http://www.fedoraproject.org" version="9.5.2">
+        <filename>Boar-9.5.2-3.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:4372</id>
+  <title>Chipmunk_Erratum</title>
+  <release>8</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Chipmunk_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Chipmunk" release="8" src="http://www.fedoraproject.org" version="4.2.7">
+        <filename>Chipmunk-4.2.7-8.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:997</id>
+  <title>Chipmunk_Erratum</title>
+  <release>9</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Chipmunk_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Chipmunk" release="9" src="http://www.fedoraproject.org" version="4.2.7">
+        <filename>Chipmunk-4.2.7-9.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:2801</id>
+  <title>Chipmunk_Erratum</title>
+  <release>10</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Chipmunk_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Chipmunk" release="10" src="http://www.fedoraproject.org" version="4.2.7">
+        <filename>Chipmunk-4.2.7-10.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:119</id>
+  <title>Zebra_Erratum</title>
+  <release>4</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Zebra_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Zebra" release="4" src="http://www.fedoraproject.org" version="1.8.3">
+        <filename>Zebra-1.8.3-4.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:4751</id>
+  <title>Zebra_Erratum</title>
+  <release>5</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Zebra_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Zebra" release="5" src="http://www.fedoraproject.org" version="1.8.3">
+        <filename>Zebra-1.8.3-5.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:5528</id>
+  <title>Zebra_Erratum</title>
+  <release>6</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Zebra_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Zebra" release="6" src="http://www.fedoraproject.org" version="1.8.3">
+        <filename>Zebra-1.8.3-6.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:5243</id>
+  <title>Chipmunk_Erratum</title>
+  <release>3</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Chipmunk_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Chipmunk" release="3" src="http://www.fedoraproject.org" version="2.9.2">
+        <filename>Chipmunk-2.9.2-3.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:775</id>
+  <title>Cat_Erratum</title>
+  <release>9</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Cat_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Cat" release="9" src="http://www.fedoraproject.org" version="1.7.8">
+        <filename>Cat-1.7.8-9.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:7473</id>
+  <title>Squirrel_Erratum</title>
+  <release>5</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Squirrel_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Squirrel" release="5" src="http://www.fedoraproject.org" version="6.1.4">
+        <filename>Squirrel-6.1.4-5.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:2721</id>
+  <title>Squirrel_Erratum</title>
+  <release>6</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Squirrel_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Squirrel" release="6" src="http://www.fedoraproject.org" version="6.1.4">
+        <filename>Squirrel-6.1.4-6.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:7924</id>
+  <title>Squirrel_Erratum</title>
+  <release>7</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Squirrel_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Squirrel" release="7" src="http://www.fedoraproject.org" version="6.1.4">
+        <filename>Squirrel-6.1.4-7.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:285</id>
+  <title>Mousedeer_Erratum</title>
+  <release>7</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Mousedeer_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Mousedeer" release="7" src="http://www.fedoraproject.org" version="4.4.6">
+        <filename>Mousedeer-4.4.6-7.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:6406</id>
+  <title>Mousedeer_Erratum</title>
+  <release>8</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Mousedeer_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Mousedeer" release="8" src="http://www.fedoraproject.org" version="4.4.6">
+        <filename>Mousedeer-4.4.6-8.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:7269</id>
+  <title>Mousedeer_Erratum</title>
+  <release>9</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Mousedeer_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Mousedeer" release="9" src="http://www.fedoraproject.org" version="4.4.6">
+        <filename>Mousedeer-4.4.6-9.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:1248</id>
+  <title>Rhinoceros_Erratum</title>
+  <release>9</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Rhinoceros_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Rhinoceros" release="9" src="http://www.fedoraproject.org" version="10.6.8">
+        <filename>Rhinoceros-10.6.8-9.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:321</id>
+  <title>Rhinoceros_Erratum</title>
+  <release>10</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Rhinoceros_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Rhinoceros" release="10" src="http://www.fedoraproject.org" version="10.6.8">
+        <filename>Rhinoceros-10.6.8-10.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:5515</id>
+  <title>Rabbit_Erratum</title>
+  <release>7</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Rabbit_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Rabbit" release="7" src="http://www.fedoraproject.org" version="3.3.6">
+        <filename>Rabbit-3.3.6-7.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:8061</id>
+  <title>Rabbit_Erratum</title>
+  <release>8</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Rabbit_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Rabbit" release="8" src="http://www.fedoraproject.org" version="3.3.6">
+        <filename>Rabbit-3.3.6-8.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:2718</id>
+  <title>Rabbit_Erratum</title>
+  <release>9</release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>Rabbit_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="Rabbit" release="9" src="http://www.fedoraproject.org" version="3.3.6">
+        <filename>Rabbit-3.3.6-9.elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:3493</id>
+  <title>acme-package_Erratum</title>
+  <release>1.0.1 </release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>acme-package_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="acme-package" release="1.0.1 " src="http://www.fedoraproject.org" version="1.0.2">
+        <filename>acme-package-1.0.2-1.0.1 .elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:4654</id>
+  <title>acme-package_Erratum</title>
+  <release>1.0.2 </release>
+  <issued date="2012-01-27 16:08:09"/>
+  <description>acme-package_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="acme-package" release="1.0.2 " src="http://www.fedoraproject.org" version="1.1.2">
+        <filename>acme-package-1.1.2-1.0.2 .elfake.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+</updates>
