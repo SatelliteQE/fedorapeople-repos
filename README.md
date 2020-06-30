@@ -1,1 +1,1 @@
-# pulp-fixtures
+# fedorapeople-repos
