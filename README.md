@@ -25,4 +25,4 @@ Run the container
 sudo podman run -d -h <hostname-of-local-machine> -p 50123:80 fedorapeople
 ```
 
-Go to http://<hostname-of-local-machine>:50123/ in your browser to view all of the repositories.
+Go to http://hostname-of-local-machine:50123/ in your browser to view all of the repositories.
