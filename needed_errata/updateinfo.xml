@@ -27,7 +27,7 @@
   <title>Bird_Erratum</title>
   <release>1</release>
   <issued date="2013-01-27 16:08:08"/>
-  <description>ParthaBird_Erratum</description>
+  <description>Bird_Erratum</description>
   <pkglist>
     <collection short="">
       <name>1</name>
@@ -86,8 +86,8 @@
   <pkglist>
     <collection short="">
       <name>1</name>
-      <package arch="noarch" name="kangaroo" release="1" src="http://www.fedoraproject.org" version="0.3">
-        <filename>kangaroo-0.3-1.noarch.rpm</filename>
+      <package arch="noarch" name="kangaroo" release="1" src="http://www.fedoraproject.org" version="0.2">
+        <filename>kangaroo-0.2-1.noarch.rpm</filename>
       </package>
     </collection>
   </pkglist>
