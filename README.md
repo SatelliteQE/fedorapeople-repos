@@ -1,7 +1,7 @@
 # fedorapeople-repos
 
 # Purpose
-This repository is for hosting the repository constants used in https://github.com/SatelliteQE/robottelo/blob/master/robottelo/constants.py. Because the repositories used in constants.py are all created by individual fedorapeople accounts, we needed a way to consolidate the creation of these repositories.
+This repository is for hosting the repository constants used in https://github.com/SatelliteQE/robottelo/blob/master/robottelo/constants/repos.py. Because the repositories used in constants.py are all created by individual fedorapeople accounts, we needed a way to consolidate the creation of these repositories.
 
 # How to start the container manually
 
