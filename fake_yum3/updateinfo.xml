@@ -1,339 +1,399 @@
 <?xml version="1.0"?>
-<updates><update from="errata@redhat.com" status="stable" type="bugfix" version="1">
-  <id>RHEA-2012:1451</id>
-  <title>goat_Erratum</title>
+<updates><update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:5374</id>
+  <title>seal_Erratum</title>
   <release>1</release>
-  <issued date="2019-06-18 00:00:00"/>
-  <description>goat_Erratum description</description>
+  <issued date="2019-07-05 00:00:00"/>
+  <description>seal_Erratum description</description>
   <pkglist>
     <collection short="">
       <name>1</name>
-      <package arch="noarch" name="goat" release="1" src="http://www.fedoraproject.org" version="4.1.11">
-        <filename>goat-4.1.11-1.noarch.rpm</filename>
-      </package>
-    </collection>
-  </pkglist>
-</update>
-<update from="errata@redhat.com" status="stable" type="enhancement" version="1">
-  <id>RHEA-2012:2320</id>
-  <title>dolphin_Erratum</title>
-  <release>1</release>
-  <issued date="2019-06-26 00:00:00"/>
-  <description>dolphin_Erratum description</description>
-  <pkglist>
-    <collection short="">
-      <name>1</name>
-      <package arch="noarch" name="dolphin" release="1" src="http://www.fedoraproject.org" version="10.0.10">
-        <filename>dolphin-10.0.10-1.noarch.rpm</filename>
-      </package>
-    </collection>
-  </pkglist>
-</update>
-<update from="errata@redhat.com" status="stable" type="security" version="1">
-  <id>RHEA-2012:1575</id>
-  <title>porcupine_Erratum</title>
-  <release>1</release>
-  <issued date="2019-05-06 00:00:00"/>
-  <description>porcupine_Erratum description</description>
-  <pkglist>
-    <collection short="">
-      <name>1</name>
-      <package arch="noarch" name="porcupine" release="1" src="http://www.fedoraproject.org" version="3.2.9">
-        <filename>porcupine-3.2.9-1.noarch.rpm</filename>
+      <package arch="noarch" name="seal" release="1" src="http://www.fedoraproject.org" version="6.2.1">
+        <filename>seal-6.2.1-1.noarch.rpm</filename>
       </package>
     </collection>
   </pkglist>
 </update>
 <update from="errata@redhat.com" status="stable" type="bugfix" version="1">
-  <id>RHEA-2012:5393</id>
-  <title>ostritch_Erratum</title>
-  <release>1</release>
-  <issued date="2019-10-06 00:00:00"/>
-  <description>ostritch_Erratum description</description>
-  <pkglist>
-    <collection short="">
-      <name>1</name>
-      <package arch="noarch" name="ostritch" release="1" src="http://www.fedoraproject.org" version="2.2.10">
-        <filename>ostritch-2.2.10-1.noarch.rpm</filename>
-      </package>
-    </collection>
-  </pkglist>
-</update>
-<update from="errata@redhat.com" status="stable" type="bugfix" version="1">
-  <id>RHEA-2012:1289</id>
-  <title>tortoise_Erratum</title>
-  <release>1</release>
-  <issued date="2019-02-11 00:00:00"/>
-  <description>tortoise_Erratum description</description>
-  <pkglist>
-    <collection short="">
-      <name>1</name>
-      <package arch="noarch" name="tortoise" release="1" src="http://www.fedoraproject.org" version="10.0.10">
-        <filename>tortoise-10.0.10-1.noarch.rpm</filename>
-      </package>
-    </collection>
-  </pkglist>
-</update>
-<update from="errata@redhat.com" status="stable" type="bugfix" version="1">
-  <id>RHEA-2012:5829</id>
-  <title>otter_Erratum</title>
-  <release>1</release>
-  <issued date="2019-09-15 00:00:00"/>
-  <description>otter_Erratum description</description>
-  <pkglist>
-    <collection short="">
-      <name>1</name>
-      <package arch="noarch" name="otter" release="1" src="http://www.fedoraproject.org" version="5.9.5">
-        <filename>otter-5.9.5-1.noarch.rpm</filename>
-      </package>
-    </collection>
-  </pkglist>
-</update>
-<update from="errata@redhat.com" status="stable" type="enhancement" version="1">
-  <id>RHEA-2012:4511</id>
-  <title>pig_Erratum</title>
-  <release>1</release>
-  <issued date="2019-09-23 00:00:00"/>
-  <description>pig_Erratum description</description>
-  <pkglist>
-    <collection short="">
-      <name>1</name>
-      <package arch="noarch" name="pig" release="1" src="http://www.fedoraproject.org" version="8.0.8">
-        <filename>pig-8.0.8-1.noarch.rpm</filename>
-      </package>
-    </collection>
-  </pkglist>
-</update>
-<update from="errata@redhat.com" status="stable" type="bugfix" version="1">
-  <id>RHEA-2012:2011</id>
-  <title>tapir_Erratum</title>
-  <release>1</release>
-  <issued date="2019-01-16 00:00:00"/>
-  <description>tapir_Erratum description</description>
-  <pkglist>
-    <collection short="">
-      <name>1</name>
-      <package arch="noarch" name="tapir" release="1" src="http://www.fedoraproject.org" version="4.3.9">
-        <filename>tapir-4.3.9-1.noarch.rpm</filename>
-      </package>
-    </collection>
-  </pkglist>
-</update>
-<update from="errata@redhat.com" status="stable" type="bugfix" version="1">
-  <id>RHEA-2012:3903</id>
-  <title>rat_Erratum</title>
-  <release>1</release>
-  <issued date="2019-01-28 00:00:00"/>
-  <description>rat_Erratum description</description>
-  <pkglist>
-    <collection short="">
-      <name>1</name>
-      <package arch="noarch" name="rat" release="1" src="http://www.fedoraproject.org" version="0.3.3">
-        <filename>rat-0.3.3-1.noarch.rpm</filename>
-      </package>
-    </collection>
-  </pkglist>
-</update>
-<update from="errata@redhat.com" status="stable" type="bugfix" version="1">
-  <id>RHEA-2012:90</id>
-  <title>leopard_Erratum</title>
-  <release>1</release>
-  <issued date="2019-04-14 00:00:00"/>
-  <description>leopard_Erratum description</description>
-  <pkglist>
-    <collection short="">
-      <name>1</name>
-      <package arch="noarch" name="leopard" release="1" src="http://www.fedoraproject.org" version="1.10.9">
-        <filename>leopard-1.10.9-1.noarch.rpm</filename>
-      </package>
-    </collection>
-  </pkglist>
-</update>
-<update from="errata@redhat.com" status="stable" type="bugfix" version="1">
-  <id>RHEA-2012:7574</id>
-  <title>rat_Erratum</title>
-  <release>1</release>
-  <issued date="2019-04-02 00:00:00"/>
-  <description>rat_Erratum description</description>
-  <pkglist>
-    <collection short="">
-      <name>1</name>
-      <package arch="noarch" name="rat" release="1" src="http://www.fedoraproject.org" version="3.5.6">
-        <filename>rat-3.5.6-1.noarch.rpm</filename>
-      </package>
-    </collection>
-  </pkglist>
-</update>
-<update from="errata@redhat.com" status="stable" type="security" version="1">
-  <id>RHEA-2012:8321</id>
-  <title>toad_Erratum</title>
-  <release>1</release>
-  <issued date="2019-11-06 00:00:00"/>
-  <description>toad_Erratum description</description>
-  <pkglist>
-    <collection short="">
-      <name>1</name>
-      <package arch="noarch" name="toad" release="1" src="http://www.fedoraproject.org" version="1.5.9">
-        <filename>toad-1.5.9-1.noarch.rpm</filename>
-      </package>
-    </collection>
-  </pkglist>
-</update>
-<update from="errata@redhat.com" status="stable" type="bugfix" version="1">
-  <id>RHEA-2012:3127</id>
-  <title>sheep_Erratum</title>
-  <release>1</release>
-  <issued date="2019-05-24 00:00:00"/>
-  <description>sheep_Erratum description</description>
-  <pkglist>
-    <collection short="">
-      <name>1</name>
-      <package arch="noarch" name="sheep" release="1" src="http://www.fedoraproject.org" version="10.0.3">
-        <filename>sheep-10.0.3-1.noarch.rpm</filename>
-      </package>
-    </collection>
-  </pkglist>
-</update>
-<update from="errata@redhat.com" status="stable" type="enhancement" version="1">
-  <id>RHEA-2012:3823</id>
-  <title>donkey_Erratum</title>
-  <release>1</release>
-  <issued date="2019-06-27 00:00:00"/>
-  <description>donkey_Erratum description</description>
-  <pkglist>
-    <collection short="">
-      <name>1</name>
-      <package arch="noarch" name="donkey" release="1" src="http://www.fedoraproject.org" version="2.6.1">
-        <filename>donkey-2.6.1-1.noarch.rpm</filename>
-      </package>
-    </collection>
-  </pkglist>
-</update>
-<update from="errata@redhat.com" status="stable" type="bugfix" version="1">
-  <id>RHEA-2012:8930</id>
-  <title>polecat_Erratum</title>
-  <release>1</release>
-  <issued date="2019-09-22 00:00:00"/>
-  <description>polecat_Erratum description</description>
-  <pkglist>
-    <collection short="">
-      <name>1</name>
-      <package arch="noarch" name="polecat" release="1" src="http://www.fedoraproject.org" version="5.7.3">
-        <filename>polecat-5.7.3-1.noarch.rpm</filename>
-      </package>
-    </collection>
-  </pkglist>
-</update>
-<update from="errata@redhat.com" status="stable" type="enhancement" version="1">
-  <id>RHEA-2012:2697</id>
-  <title>sheep_Erratum</title>
-  <release>1</release>
-  <issued date="2019-05-22 00:00:00"/>
-  <description>sheep_Erratum description</description>
-  <pkglist>
-    <collection short="">
-      <name>1</name>
-      <package arch="noarch" name="sheep" release="1" src="http://www.fedoraproject.org" version="0.5.5">
-        <filename>sheep-0.5.5-1.noarch.rpm</filename>
-      </package>
-    </collection>
-  </pkglist>
-</update>
-<update from="errata@redhat.com" status="stable" type="bugfix" version="1">
-  <id>RHEA-2012:7802</id>
-  <title>crocodile_Erratum</title>
-  <release>1</release>
-  <issued date="2019-01-07 00:00:00"/>
-  <description>crocodile_Erratum description</description>
-  <pkglist>
-    <collection short="">
-      <name>1</name>
-      <package arch="noarch" name="crocodile" release="1" src="http://www.fedoraproject.org" version="3.8.2">
-        <filename>crocodile-3.8.2-1.noarch.rpm</filename>
-      </package>
-    </collection>
-  </pkglist>
-</update>
-<update from="errata@redhat.com" status="stable" type="bugfix" version="1">
-  <id>RHEA-2012:620</id>
-  <title>ostritch_Erratum</title>
-  <release>1</release>
-  <issued date="2019-09-23 00:00:00"/>
-  <description>ostritch_Erratum description</description>
-  <pkglist>
-    <collection short="">
-      <name>1</name>
-      <package arch="noarch" name="ostritch" release="1" src="http://www.fedoraproject.org" version="1.3.4">
-        <filename>ostritch-1.3.4-1.noarch.rpm</filename>
-      </package>
-    </collection>
-  </pkglist>
-</update>
-<update from="errata@redhat.com" status="stable" type="enhancement" version="1">
-  <id>RHEA-2012:2141</id>
-  <title>rabbit_Erratum</title>
-  <release>1</release>
-  <issued date="2019-01-24 00:00:00"/>
-  <description>rabbit_Erratum description</description>
-  <pkglist>
-    <collection short="">
-      <name>1</name>
-      <package arch="noarch" name="rabbit" release="1" src="http://www.fedoraproject.org" version="8.9.6">
-        <filename>rabbit-8.9.6-1.noarch.rpm</filename>
-      </package>
-    </collection>
-  </pkglist>
-</update>
-<update from="errata@redhat.com" status="stable" type="security" version="1">
-  <id>RHEA-2012:8719</id>
-  <title>leopard_Erratum</title>
-  <release>1</release>
-  <issued date="2019-12-07 00:00:00"/>
-  <description>leopard_Erratum description</description>
-  <pkglist>
-    <collection short="">
-      <name>1</name>
-      <package arch="noarch" name="leopard" release="1" src="http://www.fedoraproject.org" version="6.10.10">
-        <filename>leopard-6.10.10-1.noarch.rpm</filename>
-      </package>
-    </collection>
-  </pkglist>
-</update>
-<update from="errata@redhat.com" status="stable" type="security" version="1">
-  <id>RHEA-2012:9454</id>
-  <title>camel_Erratum</title>
-  <release>1</release>
-  <issued date="2019-06-10 00:00:00"/>
-  <description>camel_Erratum description</description>
-  <pkglist>
-    <collection short="">
-      <name>1</name>
-      <package arch="noarch" name="camel" release="1" src="http://www.fedoraproject.org" version="5.8.9">
-        <filename>camel-5.8.9-1.noarch.rpm</filename>
-      </package>
-    </collection>
-  </pkglist>
-</update>
-<update from="errata@redhat.com" status="stable" type="enhancement" version="1">
-  <id>RHEA-2012:2664</id>
+  <id>RHEA-2012:5050</id>
   <title>beaver_Erratum</title>
   <release>1</release>
-  <issued date="2019-05-07 00:00:00"/>
+  <issued date="2019-05-10 00:00:00"/>
   <description>beaver_Erratum description</description>
   <pkglist>
     <collection short="">
       <name>1</name>
-      <package arch="noarch" name="beaver" release="1" src="http://www.fedoraproject.org" version="10.5.10">
-        <filename>beaver-10.5.10-1.noarch.rpm</filename>
+      <package arch="noarch" name="beaver" release="1" src="http://www.fedoraproject.org" version="3.6.7">
+        <filename>beaver-3.6.7-1.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="bugfix" version="1">
+  <id>RHEA-2012:5858</id>
+  <title>eagle_Erratum</title>
+  <release>1</release>
+  <issued date="2019-02-27 00:00:00"/>
+  <description>eagle_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="eagle" release="1" src="http://www.fedoraproject.org" version="7.8.6">
+        <filename>eagle-7.8.6-1.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="bugfix" version="1">
+  <id>RHEA-2012:4784</id>
+  <title>hare_Erratum</title>
+  <release>1</release>
+  <issued date="2019-05-27 00:00:00"/>
+  <description>hare_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="hare" release="1" src="http://www.fedoraproject.org" version="5.3.3">
+        <filename>hare-5.3.3-1.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="enhancement" version="1">
+  <id>RHEA-2012:61</id>
+  <title>rabbit_Erratum</title>
+  <release>1</release>
+  <issued date="2019-11-01 00:00:00"/>
+  <description>rabbit_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="rabbit" release="1" src="http://www.fedoraproject.org" version="1.5.7">
+        <filename>rabbit-1.5.7-1.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="enhancement" version="1">
+  <id>RHEA-2012:9956</id>
+  <title>tortoise_Erratum</title>
+  <release>1</release>
+  <issued date="2019-08-08 00:00:00"/>
+  <description>tortoise_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="tortoise" release="1" src="http://www.fedoraproject.org" version="6.6.12">
+        <filename>tortoise-6.6.12-1.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="bugfix" version="1">
+  <id>RHEA-2012:7030</id>
+  <title>canary_Erratum</title>
+  <release>1</release>
+  <issued date="2019-08-06 00:00:00"/>
+  <description>canary_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="canary" release="1" src="http://www.fedoraproject.org" version="8.3.11">
+        <filename>canary-8.3.11-1.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="bugfix" version="1">
+  <id>RHEA-2012:7429</id>
+  <title>ape_Erratum</title>
+  <release>1</release>
+  <issued date="2019-06-21 00:00:00"/>
+  <description>ape_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="ape" release="1" src="http://www.fedoraproject.org" version="10.8.8">
+        <filename>ape-10.8.8-1.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="enhancement" version="1">
+  <id>RHEA-2012:6213</id>
+  <title>panda_Erratum</title>
+  <release>1</release>
+  <issued date="2019-05-24 00:00:00"/>
+  <description>panda_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="panda" release="1" src="http://www.fedoraproject.org" version="7.3.12">
+        <filename>panda-7.3.12-1.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="enhancement" version="1">
+  <id>RHEA-2012:5717</id>
+  <title>ostritch_Erratum</title>
+  <release>1</release>
+  <issued date="2019-01-10 00:00:00"/>
+  <description>ostritch_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="ostritch" release="1" src="http://www.fedoraproject.org" version="1.8.7">
+        <filename>ostritch-1.8.7-1.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="enhancement" version="1">
+  <id>RHEA-2012:4057</id>
+  <title>chicken_Erratum</title>
+  <release>1</release>
+  <issued date="2019-08-06 00:00:00"/>
+  <description>chicken_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="chicken" release="1" src="http://www.fedoraproject.org" version="0.4.2">
+        <filename>chicken-0.4.2-1.noarch.rpm</filename>
       </package>
     </collection>
   </pkglist>
 </update>
 <update from="errata@redhat.com" status="stable" type="security" version="1">
-  <id>RHEA-2012:3186</id>
+  <id>RHEA-2012:81</id>
+  <title>dolphin_Erratum</title>
+  <release>1</release>
+  <issued date="2019-01-09 00:00:00"/>
+  <description>dolphin_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="dolphin" release="1" src="http://www.fedoraproject.org" version="4.2.9">
+        <filename>dolphin-4.2.9-1.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="enhancement" version="1">
+  <id>RHEA-2012:1106</id>
+  <title>hamster_Erratum</title>
+  <release>1</release>
+  <issued date="2019-01-06 00:00:00"/>
+  <description>hamster_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="hamster" release="1" src="http://www.fedoraproject.org" version="3.5.9">
+        <filename>hamster-3.5.9-1.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:5399</id>
+  <title>tapir_Erratum</title>
+  <release>1</release>
+  <issued date="2019-11-08 00:00:00"/>
+  <description>tapir_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="tapir" release="1" src="http://www.fedoraproject.org" version="8.4.4">
+        <filename>tapir-8.4.4-1.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:2287</id>
+  <title>bird_Erratum</title>
+  <release>1</release>
+  <issued date="2019-12-24 00:00:00"/>
+  <description>bird_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="bird" release="1" src="http://www.fedoraproject.org" version="10.6.7">
+        <filename>bird-10.6.7-1.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="enhancement" version="1">
+  <id>RHEA-2012:8367</id>
+  <title>antelope_Erratum</title>
+  <release>1</release>
+  <issued date="2019-12-06 00:00:00"/>
+  <description>antelope_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="antelope" release="1" src="http://www.fedoraproject.org" version="5.0.10">
+        <filename>antelope-5.0.10-1.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:9658</id>
+  <title>hare_Erratum</title>
+  <release>1</release>
+  <issued date="2019-09-15 00:00:00"/>
+  <description>hare_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="hare" release="1" src="http://www.fedoraproject.org" version="1.1.10">
+        <filename>hare-1.1.10-1.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="bugfix" version="1">
+  <id>RHEA-2012:6035</id>
+  <title>monkey_Erratum</title>
+  <release>1</release>
+  <issued date="2019-12-28 00:00:00"/>
+  <description>monkey_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="monkey" release="1" src="http://www.fedoraproject.org" version="7.2.4">
+        <filename>monkey-7.2.4-1.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:9085</id>
+  <title>donkey_Erratum</title>
+  <release>1</release>
+  <issued date="2019-04-14 00:00:00"/>
+  <description>donkey_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="donkey" release="1" src="http://www.fedoraproject.org" version="2.0.5">
+        <filename>donkey-2.0.5-1.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:8074</id>
+  <title>camel_Erratum</title>
+  <release>1</release>
+  <issued date="2019-11-15 00:00:00"/>
+  <description>camel_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="camel" release="1" src="http://www.fedoraproject.org" version="4.10.3">
+        <filename>camel-4.10.3-1.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="enhancement" version="1">
+  <id>RHEA-2012:4662</id>
+  <title>seal_Erratum</title>
+  <release>1</release>
+  <issued date="2019-10-27 00:00:00"/>
+  <description>seal_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="seal" release="1" src="http://www.fedoraproject.org" version="1.0.12">
+        <filename>seal-1.0.12-1.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:3733</id>
+  <title>ant_Erratum</title>
+  <release>1</release>
+  <issued date="2019-01-06 00:00:00"/>
+  <description>ant_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="ant" release="1" src="http://www.fedoraproject.org" version="7.7.7">
+        <filename>ant-7.7.7-1.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="enhancement" version="1">
+  <id>RHEA-2012:1097</id>
+  <title>hamster_Erratum</title>
+  <release>1</release>
+  <issued date="2019-10-28 00:00:00"/>
+  <description>hamster_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="hamster" release="1" src="http://www.fedoraproject.org" version="7.2.7">
+        <filename>hamster-7.2.7-1.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="security" version="1">
+  <id>RHEA-2012:9245</id>
+  <title>rabbit_Erratum</title>
+  <release>1</release>
+  <issued date="2019-10-06 00:00:00"/>
+  <description>rabbit_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="rabbit" release="1" src="http://www.fedoraproject.org" version="3.8.12">
+        <filename>rabbit-3.8.12-1.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="bugfix" version="1">
+  <id>RHEA-2012:8407</id>
+  <title>bird_Erratum</title>
+  <release>1</release>
+  <issued date="2019-06-22 00:00:00"/>
+  <description>bird_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="bird" release="1" src="http://www.fedoraproject.org" version="2.10.1">
+        <filename>bird-2.10.1-1.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="enhancement" version="1">
+  <id>RHEA-2012:7753</id>
+  <title>goat_Erratum</title>
+  <release>1</release>
+  <issued date="2019-04-25 00:00:00"/>
+  <description>goat_Erratum description</description>
+  <pkglist>
+    <collection short="">
+      <name>1</name>
+      <package arch="noarch" name="goat" release="1" src="http://www.fedoraproject.org" version="10.4.4">
+        <filename>goat-10.4.4-1.noarch.rpm</filename>
+      </package>
+    </collection>
+  </pkglist>
+</update>
+<update from="errata@redhat.com" status="stable" type="enhancement" version="1">
+  <id>RHEA-2012:5637</id>
   <title>acme-package_Erratum</title>
   <release>1</release>
-  <issued date="2019-10-08 00:00:00"/>
+  <issued date="2019-10-12 00:00:00"/>
   <description>acme-package_Erratum description</description>
   <pkglist>
     <collection short="">
@@ -344,11 +404,11 @@
     </collection>
   </pkglist>
 </update>
-<update from="errata@redhat.com" status="stable" type="security" version="1">
-  <id>RHEA-2012:2385</id>
+<update from="errata@redhat.com" status="stable" type="enhancement" version="1">
+  <id>RHEA-2012:4707</id>
   <title>acme-package_Erratum</title>
   <release>1</release>
-  <issued date="2019-07-02 00:00:00"/>
+  <issued date="2019-02-23 00:00:00"/>
   <description>acme-package_Erratum description</description>
   <pkglist>
     <collection short="">
