@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE comps PUBLIC "-//Red Hat, Inc.//DTD Comps info//EN" "comps.dtd">
+<comps>
+        
+  <group>
+   <id>mammals</id>
+   <default>true</default>
+   <uservisible>true</uservisible>
+   <display_order>1024</display_order>
+   <name>mammals</name>
+   <description></description>
+    <packagelist>
+      <packagereq type="mandatory">camel</packagereq>
+      <packagereq type="mandatory">cheetah</packagereq>
+      <packagereq type="mandatory">mouse</packagereq>
+      <packagereq type="mandatory">tiger</packagereq>
+    </packagelist>
+  </group>
+</comps>
