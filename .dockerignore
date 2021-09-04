@@ -1,0 +1,6 @@
+.dockerignore
+Dockerfile
+.git
+*.swp
+LICENSE
+README.md
